@@ -1,4 +1,4 @@
-# Grip op China · Yu Shan Management — website redesign mockup
+# Grip op China · Yu Shan Management — website design
 
 A static, high-fidelity three-page redesign proposal for **Grip op China / Yu Shan
 Management** (gripopchina.nl): a Dutch-run consultancy and interim-management firm
